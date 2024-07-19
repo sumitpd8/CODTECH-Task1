@@ -1,13 +1,12 @@
-Name: SUMIT PRASAD
-Company: CODTECH IT SOLUTIONS 
-ID: CT8CSEH1724
-Domain: Cyber Security and Ethical Hacking 
-Duration: July to August 2024
-Mentor: 
+- Name: SUMIT PRASAD
+- Company: CODTECH IT SOLUTIONS 
+- ID: CT8CSEH1724
+- Domain: Cyber Security and Ethical Hacking 
+- Duration: July to August 2024
+- Mentor: 
 
-Password Strength Checker
-
-Overview of the Project 
+# Password Strength Checker
+# Overview of the Project 
 The Password Strength Checker is a Python-based tool designed to evaluate the security strength of passwords. It assesses passwords against several criteria to determine their robustness and provides immediate feedback to help users create stronger, more secure passwords.
 
 Features
