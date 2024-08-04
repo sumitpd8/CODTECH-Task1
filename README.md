@@ -2,7 +2,7 @@
 - Company: CODTECH IT SOLUTIONS 
 - ID: CT8CSEH1724
 - Domain: Cyber Security and Ethical Hacking 
-- Duration: July to August 2024
+- Duration: July to September 2024
 - Mentor: Muzammil Ahmed
   
 # Password Strength Checker
